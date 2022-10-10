@@ -93,7 +93,7 @@ if pwd == password:
 	    	if opc == "1":
 	    		pass
 	    	elif opc == "2":
-	    		print("\nGracias por usar su cajero automático, hasta luego")
+	    		print("\nGracias por usar su cajero automático, hasta luego...")
 	    		break
 	    	else:
 	    		print("\nOpción inválida, vuelve a Menú principal")
